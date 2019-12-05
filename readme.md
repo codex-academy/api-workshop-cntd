@@ -38,4 +38,6 @@ Once done with the above create a widget where the user can select a brand and/o
 
 Add the ability to select up to 5 favourite cars from the filter widget. Create a `favourites` link that show all the cars marked as favourites.
 
+## Change your favourites
 
+Allow users to remove cars from there favourites list.

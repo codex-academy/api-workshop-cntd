@@ -40,4 +40,4 @@ Add the ability to select up to 5 favourite cars from the filter widget. Create 
 
 ## Change your favourites
 
-Allow users to remove cars from there favourites list.
+Allow users to remove cars from their favourites list.

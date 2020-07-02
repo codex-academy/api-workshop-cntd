@@ -34,7 +34,7 @@ Create a page that displays three lists:
 
 Once done with the above create a widget where the user can select a brand and/or a color from dropdowns and press a button to display a list of cars for the selected color & or brand.
 
-## Safe your favourites
+## Save your favourites
 
 Add the ability to select up to 5 favourite cars from the filter widget. Create a `favourites` link that show all the cars marked as favourites.
 

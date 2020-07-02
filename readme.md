@@ -40,7 +40,7 @@ Add the ability to select up to 5 favourite cars from the filter widget. Create 
 
 ## Favourites for each user
 
-Ensure each user can create it's own favourites list.
+Ensure each user can create their own favourites list.
 
 ## Change your favourites
 
